@@ -1,0 +1,2 @@
+# blog-agregator
+Educational project
